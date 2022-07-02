@@ -1,2 +1,3 @@
 Hello World, welcome to git
 master data added
+new data added
